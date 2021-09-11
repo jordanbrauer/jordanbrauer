@@ -12,14 +12,14 @@ This is what the cool kids are doing nowadays, right?
 
 ### Tools and Technologies
 
-Here is a various assortment of the tools and technologies I like to use. They're not listed in really any particular order, and don't necessarily reflect my GitHub usage (a lot of private stuff does not exist on here!).
+Here is a various assortment of the tools and technologies I like to use. They're not listed in really any particular order, and don't necessarily reflect my GitHub usage (a lot of private stuff does not exist on here, plus the colours are fun!).
 
 <!-- #### Environment
 
 What I like to work with and what gives me the most productivity on projects. -->
 
 ![Mac OS](https://img.shields.io/badge/OS-Mac%20OS-informational?style=flat-square&logo=apple&logoColor=white&color=999999)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=007ACC)
+![Neovim](https://img.shields.io/badge/Editor-Neovim-informational?style=flat-square&logo=neovim&logoColor=white&color=57A143)
 ![GNU Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=4EAA25)
 <!-- ![Linux](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white&color=E95420) -->
 
